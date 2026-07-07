@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestgolfcartaccessories.com/sitemap.xml
